@@ -8,6 +8,7 @@ import {
   Link,
   useRouteMatch,
   Routes,
+  useParams,
 } from "react-router-dom";
 import Shop from './Pages/Shop';
 import ShopCategory from './Pages/ShopCategory';
